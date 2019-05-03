@@ -61,7 +61,7 @@ public class GameMenuClient {
                     		
                     		// userinput replies to server
                     	}                   		
-					case 'B':
+                    case 'B':
 						System.out.println("Welcome to the multiplayer player game. "
 								+ "please wait in the lobby for a game");
                     	while(true) {
