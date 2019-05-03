@@ -62,17 +62,17 @@ public class GameMenuClient {
                     		// userinput replies to server
                     	}                   		
                     case 'B':
-						System.out.println("Welcome to the multiplayer player game. "
+                        System.out.println("Welcome to the multiplayer player game. "
 								+ "please wait in the lobby for a game");
                     	while(true) {
                    	        
-                    		// generate random number
+                           // generate random number
                     	
-                            // establish threaded socket to server
+                           // establish threaded socket to server
                     	
-                            // send number to server
+                           // send number to server
                     		
-                    		// userinput replies to server
+                           // userinput replies to server
                     	}                 
                     /*
                      * Gracefully exists the menu and the app when the while
